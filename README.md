@@ -51,3 +51,8 @@ This project builds upon classical portfolio theory (Markowitz) and recent advan
 ## Authors
 Kexin Deng · Olivia Guo · Weihang Lin  
 Cornell University — ORIE
+
+### Faculty Feedback
+> “Of the 28 projects done this semester, your project is the most directly relevant to actual portfolio management. Moreover, the care given to all steps in building the project, and the startling computational results, are unsurpassed in the 15 years of the course.”
+— Prof. James Renegar, Cornell ORIE
+
